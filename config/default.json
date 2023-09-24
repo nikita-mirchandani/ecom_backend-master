@@ -1,0 +1,10 @@
+{
+  "database": {
+    "host": "localhost",
+    "user": "postgres",
+    "name": "ecomm",
+    "password": "password",
+    "ssl": false
+  },
+  "jwtsecret": "JWT_SECRET"
+}
