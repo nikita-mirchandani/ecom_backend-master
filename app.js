@@ -3,6 +3,7 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 const cors = require("cors");
+
 // bcrypt(for encrypt password) jsonwebtoken pg cors 
 
 var indexRouter = require('./routes/index');
